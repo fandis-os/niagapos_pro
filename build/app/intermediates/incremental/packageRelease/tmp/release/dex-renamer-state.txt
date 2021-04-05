@@ -1,0 +1,4 @@
+#Sun Mar 14 23:20:56 WIB 2021
+base.0=/Volumes/USB Drive/bkp 11 Dec 2020/niagapos_pro/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

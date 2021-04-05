@@ -1,0 +1,4 @@
+#Sun Mar 14 23:33:08 WIB 2021
+base.0=/Volumes/USB Drive/bkp 11 Dec 2020/niagapos_pro/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
